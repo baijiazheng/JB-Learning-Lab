@@ -1,6 +1,6 @@
 Camera（相机）
    ↓
-YOLO（目标检测：找出装甲板）
+Detector（目标检测：找出装甲板）
    ↓
 Armor（装甲板对象）
    ↓
